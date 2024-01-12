@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- root element -->
+<foodlist>
+
+    <fooditem type="italian">
+        <name>Pizza</name>
+        <cost>$18</cost>
+    </fooditem>
+    
+    <fooditem type="american">
+        <name>Burger</name>
+        <cost>$10</cost>
+    </fooditem>
+
+    <fooditem type="american">
+        <name>Tikka</name>
+        <cost>$8</cost>
+    </fooditem>
+
+    <fooditem type="lahore">
+        <name>Karahi</name>
+        <cost>$15</cost>
+    </fooditem>
+
+    <fooditem type="karachi">
+        <name>&quot;Biryani&quot;</name>
+        <cost>$50</cost>
+    </fooditem>
+
+</foodlist>

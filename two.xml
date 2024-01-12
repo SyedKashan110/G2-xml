@@ -1,0 +1,26 @@
+<foodlist>
+        <fooditem>
+		<name>pizza</name>
+		<cost>$10</cost>
+        </fooditem>
+
+	<fooditem>
+		<name>burger</name>
+		<cost>$5</cost>
+         </fooditem>
+
+	<fooditem>
+		<name>steak</name>
+		<cost>$8</cost>
+         </fooditem>
+
+	<fooditem>
+		<name>biryani</name>
+		<cost>$115</cost>
+         </fooditem>
+
+	<fooditem>
+		<name>chinese</name>
+		<cost>$12</cost>
+         </fooditem>
+</foodlist>
